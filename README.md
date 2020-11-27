@@ -1,9 +1,5 @@
 ### Hi there 👋
 My name is Murilo, I'm a university student of Systems Analysis and Development at Fatec Campinas and currently I'm Programming Logic monitor.
-<!--
-**murilodamario/murilodamario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-at
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
