@@ -9,7 +9,6 @@ I'm also currently learning Python through challenges, you can check in my repos
 <hr>
 
 📫 How to reach me: ...
-
 I would be happy to meet new people 😄 <br>
 Send me an e-mail murilodamario.gcdamario@gmail.com
 
